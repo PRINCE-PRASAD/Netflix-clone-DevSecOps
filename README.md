@@ -44,6 +44,3 @@ The Netflix clone utilizes the following components:
 - Email Notification Screenshot
 - Demo Video showcasing the entire process
 
----
-
-Feel free to populate this template with actual content, images, and relevant links. It's crucial to provide clear instructions and visuals to aid users in understanding and utilizing your project effectively.
