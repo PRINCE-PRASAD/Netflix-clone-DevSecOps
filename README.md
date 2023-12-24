@@ -1,6 +1,3 @@
-Absolutely, here's a template for a GitHub README file for your DevOps project:
-
----
 
 # Netflix Clone DevOps Project
 
