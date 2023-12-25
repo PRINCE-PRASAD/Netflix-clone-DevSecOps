@@ -5,6 +5,7 @@ This project is a Netflix clone implemented using AWS infrastructure and DevOps 
 
 ## Project Live Preview
 [![Netflix-clone-Live-Preview](./Assets/Netflix-clone-demo.gif)](https://youtu.be/JM7wsQt9ihI)
+[![Netflix-clone-Live-Preview](./Assets/Netflix-clone-demo.mp4)](https://youtu.be/JM7wsQt9ihI)
 
 **OR**
 
