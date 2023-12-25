@@ -4,11 +4,11 @@
 This project is a Netflix clone implemented using AWS infrastructure and DevOps practices to ensure efficient development, security, monitoring, and deployment processes.
 
 ## Project Live Preview
-[![Netflix-clone-Live-Preview](./Assets/Netflix-clone-demo.gif)](https://youtu.be/N.A)
+[![Netflix-clone-Live-Preview](./Assets/Netflix-clone-demo.gif)](https://youtu.be/JM7wsQt9ihI)
 
 **OR**
 
-Ready to experience it live? Check out the demo video:![Youtube video](https://youtu.be/sample)
+Ready to experience it live? Check out the demo video:![Youtube video](https://youtu.be/JM7wsQt9ihI)
 
 ## Project Overview 
 
@@ -66,7 +66,7 @@ The Netflix clone utilizes the following components:
   <img src="./Assets/Screenshot (168).png" alt="Logo" width="100%" height="100%">
   </div>
 
-### Grafana
+### Grafana Screenshot
 <div align="center">
   <img src="./Assets/Screenshot (170).png" alt="Logo" width="100%" height="100%">
   <br>
