@@ -45,7 +45,6 @@ EC2 instance
 
   <br>
     <img src="./Assets/Screenshot (163).png" alt="Logo" width="100" height="100%">
-  </a>
 </div>
 
 Jenkins Pipline Image
