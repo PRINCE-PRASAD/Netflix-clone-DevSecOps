@@ -8,7 +8,7 @@ This project is a Netflix clone implemented using AWS infrastructure and DevOps 
 
 **OR**
 
-Ready to experience it live? Check out the demo video:![Youtube video](https://youtu.be/JM7wsQt9ihI)
+Ready to experience it live? Check out the demo video:[![Youtube video](https://youtu.be/JM7wsQt9ihI)]
 
 ## Project Overview 
 
