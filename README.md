@@ -2,11 +2,15 @@
 # Netflix Clone (DevOps Edition)
 
 This project is a Netflix clone implemented using AWS infrastructure and DevOps practices to ensure efficient development, security, monitoring, and deployment processes.
+
 ![Netflix-clone-Live-Preview](./Assets/Netflix-clone-demo16mb.gif)
 
 ## Project Live Preview
+
 ![Netflix-clone-Live-Preview](./Assets/Netflix-clone-demo15mb.gif)
+
 **OR**
+
 Ready to experience it live? Check out the demo video: [Youtube video](https://youtu.be/JM7wsQt9ihI)
 
 ## Project Overview 
