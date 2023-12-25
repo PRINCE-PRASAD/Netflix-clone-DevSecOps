@@ -1,22 +1,21 @@
 
-# Netflix Clone DevOps Project
+# Netflix Clone (DevOps Edition)
 
 This project is a Netflix clone implemented using AWS infrastructure and DevOps practices to ensure efficient development, security, monitoring, and deployment processes.
 
 ## Project Live Preview
-[![Netflix-clone-Live-Preview](./assets/Netflix-clone-demo.gif)](https://youtu.be/N.A)
+[![Netflix-clone-Live-Preview](./Assets/Netflix-clone-demo.gif)](https://youtu.be/N.A)
 
 **OR**
 
-This ![Youtube video](https://youtu.be/sample) shows whole process and pipeline this project live.
+Ready to experience it live? Check out the demo video:![Youtube video](https://youtu.be/sample)
 
 ## Project Overview 
 
 The Netflix clone utilizes the following components:
-- **EC2 Instances:** Utilized 2 large instances and 2 medium instances for deployment.
-- **Elastic IP:** Used to maintain a static IP for EC2 instances.
+- **AWS Infrastructure:** Relies on EC2 instances (1 large, 1 medium) and Elastic IPs for flexibility and scalability.
 - **Jenkins Pipeline:** Implemented a comprehensive Jenkins pipeline for continuous integration and deployment.
-- **Technologies:** Docker, Docker Hub, Trivy, Jenkins, Grafana, Prometheus, Node Exporter, AWS, SonarQube, OWASP, Movies Database API.
+- **Technology Stack:** Docker, Docker Hub, Trivy, Jenkins, Grafana, Prometheus, Node Exporter, AWS, SonarQube, OWASP, Movies Database API.
 
 ## DevOps Pipeline
 
@@ -32,10 +31,10 @@ The Netflix clone utilizes the following components:
 9. **Email Notifications:** Sending email notifications for build success or failure.
 
 ### Monitoring and Security
-- **Monitoring:** Utilized Prometheus, Grafana, and Node Exporter for monitoring infrastructure and application metrics.
-- **Security:** Implemented SonarQube, Trivy, and OWASP FindSecBugs for ensuring code and container security.
+- **Proactive Monitoring:** Grafana, Prometheus, and Node Exporter provide real-time insights into infrastructure and application health.
+- **Comprehensive Security:** SonarQube, Trivy, and OWASP FindSecBugs safeguard code and container integrity.
 
-### Additional Components
+### Additional Features
 - **Movies Database API:** Integrated an external API for fetching movie data.
 
 ## Documentation and Visuals
@@ -81,5 +80,11 @@ The Netflix clone utilizes the following components:
     <img src="./Assets/Screenshot (181).png" alt="Logo" width="100%" height="100%">
 </div>
 
+## About Me
 
+I'm a passionate developer driven by Full Stack Web Development, Cloud and DevOps Technologies, and solving problems through software innovation. Let's connect!
 
+## Let's Connect
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/prince-prasad/)
+[![twitter](https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/PRINCE__PRASAD)
+[![github](https://img.shields.io/badge/github-3d4653?style=for-the-badge&logo=github&logoColor=white)](https://github.com/PRINCE-PRASAD)
