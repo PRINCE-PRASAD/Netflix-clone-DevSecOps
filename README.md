@@ -3,7 +3,14 @@
 
 This project is a Netflix clone implemented using AWS infrastructure and DevOps practices to ensure efficient development, security, monitoring, and deployment processes.
 
-## Project Overview
+## Project Live Preview
+[![Netflix-clone-Live-Preview](./assets/Netflix-clone-demo.gif)](https://youtu.be/N.A)
+
+**OR**
+
+This ![Youtube video](https://youtu.be/sample) shows whole process and pipeline this project live.
+
+## Project Overview 
 
 The Netflix clone utilizes the following components:
 - **EC2 Instances:** Utilized 2 large instances and 2 medium instances for deployment.
@@ -32,6 +39,27 @@ The Netflix clone utilizes the following components:
 - **Movies Database API:** Integrated an external API for fetching movie data.
 
 ## Documentation and Visuals
+EC2 instance
+<div align="center">
+  <img src="./Assets/Screenshot (167).png" alt="Logo" width="100%" height="100%">
+
+  <br>
+    <img src="./assets/Screenshot(163).png" alt="Logo" width="100" height="32">
+  </a>
+</div>
+
+Jenkins Pipline Image
+
+SonarQube Analysis Screenshot
+
+DockerHub Screenshot 
+
+Prometheus Screenshot
+
+Grafana
+
+Email Notification Screenshot
+
 
 ### Included in the README:
 - Jenkins Pipeline Image
