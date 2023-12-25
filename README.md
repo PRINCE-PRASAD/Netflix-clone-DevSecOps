@@ -44,7 +44,7 @@ EC2 instance
   <img src="./Assets/Screenshot (167).png" alt="Logo" width="100%" height="100%">
 
   <br>
-    <img src="./Assets/Screenshot (163).png" alt="Logo" width="100" height="32">
+    <img src="./Assets/Screenshot (163).png" alt="Logo" width="100" height="100%">
   </a>
 </div>
 
