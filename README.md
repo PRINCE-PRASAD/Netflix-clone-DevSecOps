@@ -4,7 +4,7 @@
 This project is a Netflix clone implemented using AWS infrastructure and DevOps practices to ensure efficient development, security, monitoring, and deployment processes.
 
 ## Project Live Preview
-![[Netflix-clone-Live-Preview](./Assets/Netflix-clone-demo15mb.gif)(https://youtu.be/JM7wsQt9ihI)]
+![![Netflix-clone-Live-Preview](./Assets/Netflix-clone-demo15mb.gif)(https://youtu.be/JM7wsQt9ihI)]
 <!-- ![Netflix-clone-Live-Preview](./Assets/Netflix-clone-demo15mb.gif) -->
 <!-- ![App Screenshot](https://github.com/PRINCE-PRASAD/Netflix-clone-DevSecOps/blob/main/Assets/Netflix-clone-demo15mb.gif?raw=true) -->
 
