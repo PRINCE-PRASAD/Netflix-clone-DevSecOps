@@ -39,41 +39,42 @@ The Netflix clone utilizes the following components:
 - **Movies Database API:** Integrated an external API for fetching movie data.
 
 ## Documentation and Visuals
-## EC2 instance
+
+### EC2 instance
 <div align="center">
   <img src="./Assets/Screenshot (167).png" alt="Logo" width="100%" height="100%">
   <br>
     <img src="./Assets/Screenshot (165).png" alt="Logo" width="100%" height="100%">
 </div>
 
-## Jenkins Pipline Image
+### Jenkins Pipline Image
 <div align="center">
   <img src="./Assets/Screenshot (177).png" alt="Logo" width="100%" height="100%">
 </div>
 
-## SonarQube Analysis Screenshot
+### SonarQube Analysis Screenshot
 <div align="center">
   <img src="./Assets/Screenshot (171).png" alt="Logo" width="100%" height="100%">
   </div>
 
-DockerHub Screenshot 
+### DockerHub Screenshot 
 <div align="center">
   <img src="./Assets/Screenshot (164).png" alt="Logo" width="100%" height="100%">
   </div>
 
 ### Prometheus Screenshot
 <div align="center">
-  <img src="./Assets/Screenshot (169).png" alt="Logo" width="100%" height="100%">
+  <img src="./Assets/Screenshot (168).png" alt="Logo" width="100%" height="100%">
   </div>
 
-Grafana
+### Grafana
 <div align="center">
   <img src="./Assets/Screenshot (170).png" alt="Logo" width="100%" height="100%">
   <br>
-    <img src="./Assets/Screenshot (163).png" alt="Logo" width="100%" height="100%">
+    <img src="./Assets/Screenshot (169).png" alt="Logo" width="100%" height="100%">
 </div>
 
-Email Notification Screenshot
+### Email Notification Screenshot
 <div align="center">
   <img src="./Assets/Screenshot (180).png" alt="Logo" width="100%" height="100%">
   <br>
